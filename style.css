@@ -1,0 +1,31 @@
+.logo{
+	width: 100px;
+	margin: 30px 40px 30px 30px;
+
+}
+.logo1{
+
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+li{
+	display: inline-block;
+	margin-right: 35px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #3D58A6;
+}
+header{
+	height: 85px;
+}
+.mtavari{
+	color: #EE4036;
+
+}
+.sectionphoto{
+	width: 1170px;
+}
